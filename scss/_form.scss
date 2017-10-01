@@ -1,0 +1,38 @@
+.subscribe-form {
+
+  input, button {
+    display: inline-block;
+    line-height: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    outline: 0;
+
+  }
+
+  input {
+
+    width: 400px;
+    padding: 0 35px;
+    margin-right: 50px;
+    color: #02020A;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+
+  }
+
+  button {
+
+    width: 230px;
+    text-align: center;
+    background: #00A89C;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+
+  }
+
+}
