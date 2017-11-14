@@ -1,9 +1,9 @@
-<svg width="1280" height="557" viewBox="0 0 1280 557" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1280" height="517" viewBox="0 0 1280 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>05 Roadmap_bg</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-894 -4266)">
+<g id="Canvas" transform="translate(-894 -4276)">
 <g id="05 Roadmap_bg">
-<g id="Rectangle" filter="url(#filter0_d)">
+<g id="Rectangle">
 <use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 2174 4276)" fill="#334267"/>
 </g>
 <g id="bg 05">
@@ -23,15 +23,6 @@
 </g>
 </g>
 <defs>
-<filter id="filter0_d" filterUnits="userSpaceOnUse" x="874" y="4266" width="1320" height="557" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
-<feOffset dx="0" dy="10"/>
-<feGaussianBlur stdDeviation="10"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
 <path id="path0_fill" d="M 0 0L 1280 0L 1280 517L 0 517L 0 0Z"/>
 <path id="path1_fill" d="M 0 208.605L 143.971 0L 324.091 0L 186.278 208.605L 0 208.605Z"/>
 <path id="path2_fill" d="M 0 205.185L 136.332 0L 240.601 0L 105.218 205.185L 0 205.185Z"/>
