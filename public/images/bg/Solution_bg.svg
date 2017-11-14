@@ -1,0 +1,173 @@
+<svg width="1279" height="1237" viewBox="0 0 1279 1237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>03 Solution_bg</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-894 -729)">
+<g id="03 Solution_bg">
+<g id="Rectangle 7.13">
+<use xlink:href="#path0_fill" transform="translate(893 729)" fill="url(#paint0_linear)"/>
+</g>
+<g id="Shapes" opacity="0.4">
+<g id="Group 12">
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="Rectangle">
+<use xlink:href="#path1_fill" transform="matrix(1 0 0 -1 894 1427)" fill="#C4C4C4"/>
+</g>
+</mask>
+<g id="Group 12.1" opacity="0.5" mask="url(#mask0_alpha)">
+<g id="Ellipse 3 (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(1680 665)" fill="#67FAD6"/>
+</g>
+<g id="Ellipse 3.1 (Stroke)">
+<use xlink:href="#path3_fill" transform="translate(1685.45 670.447)" fill="#67FAD6"/>
+</g>
+<g id="Ellipse 3.2 (Stroke)">
+<use xlink:href="#path4_fill" transform="translate(1690.89 675.894)" fill="#67FAD6"/>
+</g>
+<g id="Ellipse 3.3 (Stroke)">
+<use xlink:href="#path5_fill" transform="translate(1696.34 681.34)" fill="#67FAD6"/>
+</g>
+<g id="Ellipse 3.4 (Stroke)">
+<use xlink:href="#path6_fill" transform="translate(1701.79 686.787)" fill="#67FAD6"/>
+</g>
+</g>
+<g id="Group 12.2" opacity="0.8" mask="url(#mask0_alpha)">
+<g id="Ellipse 3 (Stroke)">
+<use xlink:href="#path7_fill" transform="translate(944 1303)" fill="#334267"/>
+</g>
+<g id="Ellipse 3.1 (Stroke)">
+<use xlink:href="#path8_fill" transform="translate(947.319 1306.32)" fill="#334267"/>
+</g>
+<g id="Ellipse 3.2 (Stroke)">
+<use xlink:href="#path9_fill" transform="translate(950.638 1309.64)" fill="#334267"/>
+</g>
+<g id="Ellipse 3.3 (Stroke)">
+<use xlink:href="#path10_fill" transform="translate(953.957 1312.96)" fill="#334267"/>
+</g>
+<g id="Ellipse 3.4 (Stroke)">
+<use xlink:href="#path11_fill" transform="translate(957.276 1316.28)" fill="#334267"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:screen" opacity="0.3" mask="url(#mask0_alpha)">
+<g id="Vector">
+<use xlink:href="#path12_fill" transform="translate(1219 729)" fill="#895E71"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path13_fill" transform="translate(1887 750)" fill="#67FAD6"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path14_fill" transform="translate(1374 1304)" fill="#895E71"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path15_fill" transform="translate(1747 729)" fill="#283251"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path16_fill" transform="translate(1390 999)" fill="#324E71"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path13_fill" transform="translate(1574 851)" fill="#FABC67"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path17_fill" transform="translate(964 815)" fill="#324E71"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path18_fill" transform="translate(1241 729)" fill="#485589"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path19_fill" transform="translate(2024 728.5)" fill="#43678A"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path20_fill" transform="translate(1865 729)" fill="#895E71"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path21_fill" transform="translate(1044 729)" fill="#375A78"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path22_fill" transform="translate(1063 1243)" fill="#375A78"/>
+</g>
+</g>
+<g id="Group 11" opacity="0.5" mask="url(#mask0_alpha)">
+<g id="Polygon 2 (Stroke)">
+<use xlink:href="#path23_fill" transform="translate(1418.98 808)" fill="#D4707C"/>
+</g>
+<g id="Polygon 2.1 (Stroke)">
+<use xlink:href="#path24_fill" transform="translate(1426.76 816.988)" fill="#D4707C"/>
+</g>
+<g id="Polygon 2.2 (Stroke)">
+<use xlink:href="#path25_fill" transform="translate(1434.54 825.976)" fill="#D4707C"/>
+</g>
+<g id="Polygon 2.3 (Stroke)">
+<use xlink:href="#path26_fill" transform="translate(1443.03 835.781)" fill="#D4707C"/>
+</g>
+<g id="Polygon 2.4 (Stroke)">
+<use xlink:href="#path27_fill" transform="translate(1451.53 845.585)" fill="#D4707C"/>
+</g>
+</g>
+<g id="Group 11.1" opacity="0.5" mask="url(#mask0_alpha)">
+<g id="Polygon 2.2 (Stroke)">
+<use xlink:href="#path28_fill" transform="matrix(1 0 0 -1 1983.69 843)" fill="#456DB3"/>
+</g>
+<g id="Polygon 2.3 (Stroke)">
+<use xlink:href="#path29_fill" transform="matrix(1 0 0 -1 1989.75 836)" fill="#456DB3"/>
+</g>
+<g id="Polygon 2.4 (Stroke)">
+<use xlink:href="#path30_fill" transform="matrix(1 0 0 -1 1995.81 829)" fill="#456DB3"/>
+</g>
+</g>
+<g id="Subtract" mask="url(#mask0_alpha)">
+<use xlink:href="#path31_fill" transform="translate(1441.58 729)" fill="#D4707C" fill-opacity="0.5"/>
+</g>
+<g id="Subtract" mask="url(#mask0_alpha)">
+<use xlink:href="#path32_fill" transform="translate(1773.58 729)" fill="#D4707C" fill-opacity="0.5"/>
+</g>
+<g id="Vector 2.5 (Stroke)" mask="url(#mask0_alpha)">
+<use xlink:href="#path33_fill" transform="translate(1119.58 729)" fill="#4C77C9"/>
+</g>
+<g id="Vector 2.6 (Stroke)" mask="url(#mask0_alpha)">
+<use xlink:href="#path34_fill" transform="translate(1326.58 1026.72)" fill="#4C77C9" fill-opacity="0.5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.83774e-14 1237 -1280 7.57444e-14 1280 -7.57444e-14)">
+<stop offset="0" stop-color="#161C31"/>
+<stop offset="1" stop-color="#18273C"/>
+</linearGradient>
+<path id="path0_fill" d="M 0 0L 1280 0L 1280 1237L 0 1237L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 1280 0L 1280 698L 0 698L 0 0Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 64 127C 98.7939 127 127 98.7939 127 64C 127 29.2061 98.7939 1 64 1C 29.2061 1 1 29.2061 1 64C 1 98.7939 29.2061 127 64 127ZM 64 128C 99.3462 128 128 99.3462 128 64C 128 28.6538 99.3462 0 64 0C 28.6538 0 0 28.6538 0 64C 0 99.3462 28.6538 128 64 128Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 58.5532 116.106C 90.3389 116.106 116.106 90.3389 116.106 58.5532C 116.106 26.7674 90.3389 1 58.5532 1C 26.7674 1 1 26.7674 1 58.5532C 1 90.3389 26.7674 116.106 58.5532 116.106ZM 58.5532 117.106C 90.8912 117.106 117.106 90.8912 117.106 58.5532C 117.106 26.2152 90.8912 0 58.5532 0C 26.2152 0 0 26.2152 0 58.5532C 0 90.8912 26.2152 117.106 58.5532 117.106Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 53.1064 105.213C 81.8839 105.213 105.213 81.8839 105.213 53.1064C 105.213 24.3288 81.8839 1 53.1064 1C 24.3288 1 1 24.3288 1 53.1064C 1 81.8839 24.3288 105.213 53.1064 105.213ZM 53.1064 106.213C 82.4362 106.213 106.213 82.4362 106.213 53.1064C 106.213 23.7765 82.4362 0 53.1064 0C 23.7765 0 0 23.7765 0 53.1064C 0 82.4362 23.7765 106.213 53.1064 106.213Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 47.6596 94.3191C 73.4289 94.3191 94.3191 73.4289 94.3191 47.6596C 94.3191 21.8902 73.4289 1 47.6596 1C 21.8902 1 1 21.8902 1 47.6596C 1 73.4289 21.8902 94.3191 47.6596 94.3191ZM 47.6596 95.3191C 73.9812 95.3191 95.3191 73.9812 95.3191 47.6596C 95.3191 21.3379 73.9812 0 47.6596 0C 21.3379 0 0 21.3379 0 47.6596C 0 73.9812 21.3379 95.3191 47.6596 95.3191Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 42.2128 83.4255C 64.9739 83.4255 83.4255 64.9739 83.4255 42.2128C 83.4255 19.4516 64.9739 1 42.2128 1C 19.4516 1 1 19.4516 1 42.2128C 1 64.9739 19.4516 83.4255 42.2128 83.4255ZM 42.2128 84.4255C 65.5262 84.4255 84.4255 65.5262 84.4255 42.2128C 84.4255 18.8993 65.5262 0 42.2128 0C 18.8993 0 0 18.8993 0 42.2128C 0 65.5262 18.8993 84.4255 42.2128 84.4255Z"/>
+<path id="path7_fill" fill-rule="evenodd" d="M 39 77C 59.9868 77 77 59.9868 77 39C 77 18.0132 59.9868 1 39 1C 18.0132 1 1 18.0132 1 39C 1 59.9868 18.0132 77 39 77ZM 39 78C 60.5391 78 78 60.5391 78 39C 78 17.4609 60.5391 0 39 0C 17.4609 0 0 17.4609 0 39C 0 60.5391 17.4609 78 39 78Z"/>
+<path id="path8_fill" fill-rule="evenodd" d="M 35.6809 70.3617C 54.8346 70.3617 70.3617 54.8346 70.3617 35.6809C 70.3617 16.5271 54.8346 1 35.6809 1C 16.5271 1 1 16.5271 1 35.6809C 1 54.8346 16.5271 70.3617 35.6809 70.3617ZM 35.6809 71.3617C 55.3868 71.3617 71.3617 55.3868 71.3617 35.6809C 71.3617 15.9749 55.3868 0 35.6809 0C 15.9749 0 0 15.9749 0 35.6809C 0 55.3868 15.9749 71.3617 35.6809 71.3617Z"/>
+<path id="path9_fill" fill-rule="evenodd" d="M 32.3617 63.7234C 49.6823 63.7234 63.7234 49.6823 63.7234 32.3617C 63.7234 15.0411 49.6823 1 32.3617 1C 15.0411 1 1 15.0411 1 32.3617C 1 49.6823 15.0411 63.7234 32.3617 63.7234ZM 32.3617 64.7234C 50.2346 64.7234 64.7234 50.2346 64.7234 32.3617C 64.7234 14.4888 50.2346 0 32.3617 0C 14.4888 0 0 14.4888 0 32.3617C 0 50.2346 14.4888 64.7234 32.3617 64.7234Z"/>
+<path id="path10_fill" fill-rule="evenodd" d="M 29.0426 57.0851C 44.53 57.0851 57.0851 44.53 57.0851 29.0426C 57.0851 13.5551 44.53 1 29.0426 1C 13.5551 1 1 13.5551 1 29.0426C 1 44.53 13.5551 57.0851 29.0426 57.0851ZM 29.0426 58.0851C 45.0823 58.0851 58.0851 45.0823 58.0851 29.0426C 58.0851 13.0028 45.0823 0 29.0426 0C 13.0028 0 0 13.0028 0 29.0426C 0 45.0823 13.0028 58.0851 29.0426 58.0851Z"/>
+<path id="path11_fill" fill-rule="evenodd" d="M 25.7234 50.4468C 39.3778 50.4468 50.4468 39.3778 50.4468 25.7234C 50.4468 12.069 39.3778 1 25.7234 1C 12.069 1 1 12.069 1 25.7234C 1 39.3778 12.069 50.4468 25.7234 50.4468ZM 25.7234 51.4468C 39.93 51.4468 51.4468 39.93 51.4468 25.7234C 51.4468 11.5168 39.93 0 25.7234 0C 11.5168 0 0 11.5168 0 25.7234C 0 39.93 11.5168 51.4468 25.7234 51.4468Z"/>
+<path id="path12_fill" d="M 0 296L 198.5 0L 249.744 0L 52.9956 296L 0 296Z"/>
+<path id="path13_fill" d="M 0 331L 220.507 0L 253 0L 33.6037 331L 0 331Z"/>
+<path id="path14_fill" d="M 0 122.5L 81.2563 0L 132.5 0L 52.9956 122.5L 0 122.5Z"/>
+<path id="path15_fill" d="M 0 254L 171.832 0L 295 0L 127.379 254L 0 254Z"/>
+<path id="path16_fill" d="M 0 170.5L 117.142 0L 234.142 0L 121 170.5L 0 170.5Z"/>
+<path id="path17_fill" d="M 0 428L 286.5 0L 403.5 0L 121 428L 0 428Z"/>
+<path id="path18_fill" d="M 0 187L 126.899 0L 207.425 0L 83.2788 187L 0 187Z"/>
+<path id="path19_fill" d="M 0 171.5L 114.786 0L 147.279 0L 33.6037 171.5L 0 171.5Z"/>
+<path id="path20_fill" d="M 0 20L 14.3674 0L 46.8603 0L 33.6037 20L 0 20Z"/>
+<path id="path21_fill" d="M 0 97.5L 65.7367 0L 98.2295 0L 33.6037 97.5L 0 97.5Z"/>
+<path id="path22_fill" d="M 0 106.5L 70.5 0L 102.993 0L 33.6037 106.5L 0 106.5Z"/>
+<path id="path23_fill" fill-rule="evenodd" d="M 58.0237 0L 0 100.5L 116.047 100.5L 58.0237 0ZM 58.0237 2L 1.73205 99.5L 114.315 99.5L 58.0237 2Z"/>
+<path id="path24_fill" fill-rule="evenodd" d="M 50.24 0L 0 87.0183L 100.48 87.0183L 50.24 0ZM 50.24 2L 1.73205 86.0183L 98.748 86.0183L 50.24 2Z"/>
+<path id="path25_fill" fill-rule="evenodd" d="M 42.4564 0L 0 73.5366L 84.9127 73.5366L 42.4564 0ZM 42.4564 2L 1.73205 72.5366L 83.1807 72.5366L 42.4564 2Z"/>
+<path id="path26_fill" fill-rule="evenodd" d="M 33.9651 0L 0 58.8293L 67.9302 58.8293L 33.9651 0ZM 33.9651 2L 1.73205 57.8293L 66.1981 57.8293L 33.9651 2Z"/>
+<path id="path27_fill" fill-rule="evenodd" d="M 25.4738 0L 0 44.122L 50.9476 44.122L 25.4738 0ZM 25.4738 2L 1.73205 43.122L 49.2156 43.122L 25.4738 2Z"/>
+<path id="path28_fill" fill-rule="evenodd" d="M 30.3109 0L 0 52.5L 60.6218 52.5L 30.3109 0ZM 30.3109 2L 1.73205 51.5L 58.8897 51.5L 30.3109 2Z"/>
+<path id="path29_fill" fill-rule="evenodd" d="M 24.2487 0L 0 42L 48.4974 42L 24.2487 0ZM 24.2487 2L 1.73205 41L 46.7654 41L 24.2487 2Z"/>
+<path id="path30_fill" fill-rule="evenodd" d="M 18.1865 0L 0 31.5L 36.3731 31.5L 18.1865 0ZM 18.1865 2L 1.73205 30.5L 34.641 30.5L 18.1865 2Z"/>
+<path id="path31_fill" fill-rule="evenodd" d="M 182.212 0L 0 273.723L 0.83252 274.277L 183.413 0L 182.212 0Z"/>
+<path id="path32_fill" fill-rule="evenodd" d="M 215.496 0L 0 323.723L 0.83252 324.277L 216.698 0L 215.496 0Z"/>
+<path id="path33_fill" fill-rule="evenodd" d="M 0 227.723L 151.416 0L 152.792 0L 0.832429 228.277L 0 227.723Z"/>
+<path id="path34_fill" fill-rule="evenodd" d="M 0 338L 225 0L 225.832 0.554132L 0.832429 338.554L 0 338Z"/>
+</defs>
+</svg>

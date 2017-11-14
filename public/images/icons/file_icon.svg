@@ -1,0 +1,18 @@
+<svg width="22" height="26" viewBox="0 0 22 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>file_icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-933 -36)">
+<g id="file_icon">
+<g id="Shape (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(933 36)" fill="#67FAD6"/>
+</g>
+<g id="Shape (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(944.118 36)" fill="#67FAD6"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 3.4C 0 1.4951 1.58136 0 3.47059 0L 12.1176 0C 12.3778 0 12.6278 0.101418 12.8144 0.282721L 21.4615 8.68272C 21.6553 8.87102 21.7647 9.12976 21.7647 9.4L 21.7647 22.6C 21.7647 24.5049 20.1833 26 18.2941 26L 3.47059 26C 1.58136 26 0 24.5049 0 22.6L 0 3.4ZM 3.47059 2C 2.63088 2 2 2.65393 2 3.4L 2 22.6C 2 23.3461 2.63088 24 3.47059 24L 18.2941 24C 19.1338 24 19.7647 23.3461 19.7647 22.6L 19.7647 9.82273L 11.7119 2L 3.47059 2Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 1 0C 1.55228 0 2 0.447715 2 1L 2 8.4L 9.64706 8.4C 10.1993 8.4 10.6471 8.84771 10.6471 9.4C 10.6471 9.95228 10.1993 10.4 9.64706 10.4L 1 10.4C 0.447715 10.4 0 9.95228 0 9.4L 0 1C 0 0.447715 0.447715 0 1 0Z"/>
+</defs>
+</svg>

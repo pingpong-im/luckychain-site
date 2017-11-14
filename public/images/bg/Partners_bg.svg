@@ -1,0 +1,41 @@
+<svg width="1280" height="417" viewBox="0 0 1280 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>07 Partners_bg</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-894 -6167)">
+<g id="07 Partners_bg">
+<g id="Rectangle" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="matrix(-1 0 0 1 2174 6177)" fill="#334267"/>
+</g>
+<g id="bg 06">
+<g id="Vector" opacity="0.2">
+<use xlink:href="#path1_fill" transform="translate(894 6345.39)" fill="#43678A"/>
+</g>
+<g id="Vector" opacity="0.15">
+<use xlink:href="#path2_fill" transform="translate(1113.22 6217.99)" fill="#5A92C9"/>
+</g>
+<g id="Vector" opacity="0.2">
+<use xlink:href="#path3_fill" transform="translate(1855.11 6222.31)" fill="#5A92C9"/>
+</g>
+<g id="Vector" opacity="0.3">
+<use xlink:href="#path4_fill" transform="translate(982.243 6177)" fill="#4B82B0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="874" y="6167" width="1320" height="417" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 1280 0L 1280 377L 0 377L 0 0Z"/>
+<path id="path1_fill" d="M 0 208.605L 143.971 0L 324.091 0L 186.278 208.605L 0 208.605Z"/>
+<path id="path2_fill" d="M 0 205.185L 136.332 0L 240.601 0L 105.218 205.185L 0 205.185Z"/>
+<path id="path3_fill" d="M 0 76.0896L 50.3679 0L 88.8898 0L 38.8727 76.0896L 0 76.0896Z"/>
+<path id="path4_fill" d="M 0 91.051L 60.257 0L 88.029 0L 28.7214 91.051L 0 91.051Z"/>
+</defs>
+</svg>

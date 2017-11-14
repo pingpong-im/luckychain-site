@@ -1,0 +1,22 @@
+<svg width="88" height="85" viewBox="0 0 88 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Icon 18</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1542 -3137)">
+<g id="Icon 18">
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(1608.5 3137.5)" fill="#6EBD6B"/>
+</g>
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(1575.5 3160)" fill="#6EBD6B"/>
+</g>
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(1542.5 3182.5)" fill="#6EBD6B"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 5.5C 0 2.46243 2.46243 0 5.5 0L 15.5 0C 18.5376 0 21 2.46243 21 5.5L 21 78.5C 21 81.5376 18.5376 84 15.5 84L 5.5 84C 2.46243 84 0 81.5376 0 78.5L 0 5.5ZM 5.5 3C 4.11929 3 3 4.11929 3 5.5L 3 78.5C 3 79.8807 4.11929 81 5.5 81L 15.5 81C 16.8807 81 18 79.8807 18 78.5L 18 5.5C 18 4.11929 16.8807 3 15.5 3L 5.5 3Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 5.5C 0 2.46243 2.46243 0 5.5 0L 15.5 0C 18.5376 0 21 2.46243 21 5.5L 21 56C 21 59.0376 18.5376 61.5 15.5 61.5L 5.5 61.5C 2.46243 61.5 0 59.0376 0 56L 0 5.5ZM 5.5 3C 4.11929 3 3 4.11929 3 5.5L 3 56C 3 57.3807 4.11929 58.5 5.5 58.5L 15.5 58.5C 16.8807 58.5 18 57.3807 18 56L 18 5.5C 18 4.11929 16.8807 3 15.5 3L 5.5 3Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 5.5C 0 2.46243 2.46243 0 5.5 0L 15.5 0C 18.5376 0 21 2.46243 21 5.5L 21 33.5C 21 36.5376 18.5376 39 15.5 39L 5.5 39C 2.46243 39 0 36.5376 0 33.5L 0 5.5ZM 5.5 3C 4.11929 3 3 4.11929 3 5.5L 3 33.5C 3 34.8807 4.11929 36 5.5 36L 15.5 36C 16.8807 36 18 34.8807 18 33.5L 18 5.5C 18 4.11929 16.8807 3 15.5 3L 5.5 3Z"/>
+</defs>
+</svg>
