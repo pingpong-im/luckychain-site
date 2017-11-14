@@ -1,0 +1,27 @@
+<svg width="160" height="160" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Icon_play</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1810 243)">
+<g id="Icon_play">
+<g id="Polygon" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 1932 -201.579)" fill="#FFFFFF"/>
+</g>
+<g id="Ellipse (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(1810 -243)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1855" y="-209" width="87" height="97" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="3"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 35.4804 1.5C 36.6351 -0.499998 39.5219 -0.500002 40.6766 1.5L 75.7506 62.25C 76.9053 64.25 75.4619 66.75 73.1525 66.75L 3.00448 66.75C 0.695079 66.75 -0.748302 64.25 0.406399 62.25L 35.4804 1.5Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 80 156C 121.974 156 156 121.974 156 80C 156 38.0264 121.974 4 80 4C 38.0264 4 4 38.0264 4 80C 4 121.974 38.0264 156 80 156ZM 80 160C 124.183 160 160 124.183 160 80C 160 35.8172 124.183 0 80 0C 35.8172 0 0 35.8172 0 80C 0 124.183 35.8172 160 80 160Z"/>
+</defs>
+</svg>
