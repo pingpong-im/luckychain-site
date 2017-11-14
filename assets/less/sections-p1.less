@@ -88,3 +88,51 @@
     }
   }
 }
+
+.section-5 {
+  .column-chart {
+    margin: 50px 0;
+    p {
+      .font(16px, 20px, 400);
+      opacity: .5;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .tabs {
+    &__caption {
+      display: flex;
+      align-items: center;
+      margin-bottom: 40px;
+      li {
+        .font(16px, 20px, 500);
+        width: 100%;
+        border: 1px solid #FAB04B;
+        text-align: center;
+        padding: 10px 0;
+        cursor: pointer;
+
+
+        &:first-child {
+          border-radius: 5px 0 0 5px;
+          border-right: 0;
+        }
+
+        &:last-child {
+          border-left: 0;
+          border-radius: 0 5px 5px 0;
+        }
+
+        &.active {
+          background: #FAB04B;
+          color: #334267;
+        }
+      }
+    }
+  }
+}
