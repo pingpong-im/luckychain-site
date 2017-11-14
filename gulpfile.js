@@ -19,8 +19,8 @@ gulp.task('less', function () {
     .pipe(gulp.dest('./public/css/'));
 });
 
-gulp.task('watch', function () {
-  gulp.watch('./assets/less/*.less', ['compile-less']);
+gulp.task('w', function () {
+  gulp.watch('./assets/less/*.less', ['less']);
 });
 
 gulp.task('serve', function () {
@@ -35,4 +35,4 @@ gulp.task('serve', function () {
 });
 
 
-gulp.task('default', ['watch', 'serve']);
+gulp.task('default', ['w', 'serve']);
