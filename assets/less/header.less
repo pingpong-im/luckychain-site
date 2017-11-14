@@ -25,6 +25,35 @@ header {
 .header-form {
   display: inline-block;
   margin-bottom: 2rem;
+
+    p {
+      .font(16px, 20px, 300);
+      margin: 0 0 20px 0;
+    }
+
+    .form-group {
+      display: flex;
+      align-items: center;
+    }
+
+    input {
+      .font(20px, 24px, 400);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      padding: 13px 17px 12px;
+      outline: none;
+      margin: 0 20px 0 0;
+      flex-grow: 1;
+    }
+
+    button {
+      .font(20px, 24px, 500);
+      color: #1C243D;
+      background: #FABC67;
+      box-shadow: 0 3px 10px rgba(0, 0, 0, .25);
+      border-radius: 5px;
+      padding: 13px 40px 12px;
+    }
 }
 
 .header-logo {
