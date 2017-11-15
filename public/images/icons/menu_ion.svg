@@ -1,0 +1,22 @@
+<svg width="26" height="18" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>menu_ion</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-895 555)">
+<g id="menu_ion">
+<g id="Vector 5.1 (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(895 -555)" fill="#67FAD6"/>
+</g>
+<g id="Vector 5.3 (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(895 -547)" fill="#67FAD6"/>
+</g>
+<g id="Vector 5.2 (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(895 -539)" fill="#67FAD6"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 25 0C 25.5523 0 26 0.447715 26 1C 26 1.55228 25.5523 2 25 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 19 0C 19.5523 0 20 0.447715 20 1C 20 1.55228 19.5523 2 19 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 1C 0 0.447715 0.447715 0 1 0L 13 0C 13.5523 0 14 0.447715 14 1C 14 1.55228 13.5523 2 13 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+</defs>
+</svg>

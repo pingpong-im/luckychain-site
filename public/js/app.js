@@ -50,9 +50,11 @@ $(document).ready(function () {
   });
 
   $('.js-hamb').on('click', function () {
-    $(this).toggleClass('open');
-    $(this).parent().find('.js-navigation').fadeToggle();
-  })
+    if($(window).width() < 768) {
+      $(this).toggleClass('open');
+      $(this).parent().find('.js-navigation').fadeToggle();
+    }
+  });
 
 });
 
