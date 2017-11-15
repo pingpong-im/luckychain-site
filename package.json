@@ -1,5 +1,5 @@
 {
-  "name": "pingpong-site",
+  "name": "luckychain-site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pingpong-im/pingpong-site.git"
+    "url": "git+https://github.com/pingpong-im/luckychain-site.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pingpong-im/pingpong-site/issues"
+    "url": "https://github.com/pingpong-im/luckychain-site/issues"
   },
-  "homepage": "https://github.com/pingpong-im/pingpong-site#readme",
+  "homepage": "https://github.com/pingpong-im/luckychain-site#readme",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",

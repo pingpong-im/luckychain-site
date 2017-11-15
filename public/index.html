@@ -13,12 +13,15 @@
 
 <header>
 	<div class="container clean">
-		<nav class="js-navigation">
-			<a href="#">Product</a>
-			<a href="#">Features</a>
-			<a href="#">Team</a>
-			<a href="#">Partners</a>
-			<a href="#">FAQ</a>
+		<div class="hamb js-hamb">
+			<img src="./images/icons/menu_ion.svg">
+		</div>
+		<nav class="js-navigation js-hamb">
+            <a class="js-hamb" href="#">Product</a>
+            <a class="js-hamb" href="#features">Features</a>
+            <a class="js-hamb" href="#team">Team</a>
+            <a class="js-hamb" href="#partners">Partners</a>
+            <a class="js-hamb" href="#">FAQ</a>
 		</nav>
 		<div class="header-socialAndLang">
 			<div class="header-socials header-socialAndLang-item">
@@ -35,7 +38,11 @@
 					<img src="/images/header/icon_bitcoin.svg" alt="">
 				</a>
 			</div>
-			<div class="languages header-socialAndLang-item">English</div>
+			<div class="languages header-socialAndLang-item m-l-40">
+                <div class="active">English</div>
+                <div>Русский</div>
+                <div>Español</div>
+            </div>
 		</div>
 	</div>
 </header>
@@ -52,7 +59,7 @@
 						<h1>Lucky Chain</h1>
 					</div>
 
-					<p>
+					<p class="info">
 						Trust protocol for decentralized
 						competitive environments
 					</p>
@@ -75,9 +82,9 @@
 
 			</div>
 
-			<div class="col-md-2"></div>
+			<div class="col-md-2 col-hide"></div>
 
-			<div class="col-md-4">
+			<div class="col-md-4 col-hide">
 				<div class="header-icon-play">
 					<img src="/images/header/icon_play.svg" alt="">
 				</div>
@@ -186,7 +193,7 @@
 			</div>
 		</div>
 		<div class="separator"></div>
-		<div class="row">
+		<div class="row phases">
 			<div class="col-md-5">
 				<h4>Phase #1</h4>
 				<h2 class="small">Online Gaming Platform</h2>
@@ -299,11 +306,47 @@
 					</div>
 
 					<div class="tabs__content">
-						Developers
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.6.svg" alt="" title="">
+							<p class="small">Lack of easy-to-use marketplace for games</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.7.svg" alt="" title="">
+							<p class="small">High entry level for the game developers</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.8.svg" alt="" title="">
+							<p class="small">Need for multiple API integrations, in some case incompatibility with platform standards</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.9.svg" alt="" title="">
+							<p class="small">There’s no reliable framework for attracting investors for promising projects</p>
+						</div>
+						<div class="icon-block">
+							<img src="./images/icons/Icon_03.10.svg" alt="" title="">
+							<p class="small">Also there’s no platform to run own tokensale as a mean of fundraising</p>
+						</div>
 					</div>
 
 					<div class="tabs__content">
-						Users
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.11.svg" alt="" title="">
+							<p class="small">
+								Lack of unified platform for all game interactions - i.e. playing, watching, investing, betting, donation etc
+							</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.12.svg" alt="" title="">
+							<p class="small">Game players for some reason may not receive the promised bonuses</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.13.svg" alt="" title="">
+							<p class="small">Hidden fees for winning withdrawal</p>
+						</div>
+						<div class="icon-block m-b-40">
+							<img src="./images/icons/Icon_03.14.svg" alt="" title="">
+							<p class="small">Hidden fees for winning withdrawal</p>
+						</div>
 					</div>
 
 				</div>
@@ -312,7 +355,7 @@
 	</div>
 </section>
 
-<section class="section section-6">
+<section id="features" class="section section-6">
     <div class="container">
         <div class="tabs">
             <ul class="tabs__caption">
@@ -601,12 +644,12 @@
                     <div class="diagram">
                         <h4>The crowd sale structure<br>is as following</h4>
                         <div class="row m-t-30">
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <span class="col-1">75%</span> - to be crowd sold<br>
                                 <span class="col-2">5%</span> - goes to Advisers<br>
                                 <span class="col-3">5%</span> - goes to Bounty<br>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-sm-6">
                                 <span class="col-4">5%</span> - goes to early Investors<br>
                                 <span class="col-5">5%</span> - reserved for escrow<br>
                                 <span class="col-6">5%</span> - goes to the Team<br>
@@ -647,11 +690,11 @@
 	</div>
 </section>
 
-<section class="section section-9">
+<section id="team" class="section section-9">
 	<div class="container">
 		<h2>Team</h2>
-		<div class="row">
-			<div class="col-md-2">
+		<div class="row js-team">
+			<div class="col-sm-4 col-md-2">
 
 				<div class="team-member">
 
@@ -663,7 +706,7 @@
 				</div>
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -676,7 +719,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -689,7 +732,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -702,7 +745,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -715,7 +758,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -728,8 +771,7 @@
 
 
 			</div>
-
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 
 				<div class="team-member">
@@ -741,25 +783,23 @@
 				</div>
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 				<div class="team-member">
 					<img src="/images/team/member_kereminko.png" alt="">
 					<div class="team-member-caption">
-						<h3>Konstantion Koremin</h3>
+						<h3>Konstantin Koremin</h3>
 						<h4>UX/UI Designer</h4>
 					</div>
 				</div>
 
 
 			</div>
-
 		</div>
 		<br><br>
 		<h2>Advisers</h2>
-
 		<div class="row">
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 				<div class="team-member">
 					<img src="/images/team/member_devid.png" alt="">
@@ -769,7 +809,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 				<div class="team-member">
 					<img src="/images/team/member_mark.png" alt="">
@@ -779,7 +819,7 @@
 
 
 			</div>
-			<div class="col-md-2">
+			<div class="col-sm-4 col-md-2">
 
 				<div class="team-member">
 					<img src="/images/team/member_ian.png" alt="">
@@ -792,40 +832,23 @@
 		</div>
 	</div>
 </section>
-<section class="section section-10">
+
+<section id="partners" class="section section-10">
 	<div class="container">
 		<h2>Partners</h2>
 		<div class="row">
-			<div class="col-md-4 partners-logo">
+			<div class="col-sm-4 partners-logo">
 				<img src="/images/partners/logo_01.png" alt="" class="">
 			</div>
-			<div class="col-md-4 partners-logo">
+			<div class="col-sm-4 partners-logo">
 				<img src="/images/partners/logo_02.png" alt="" class="">
 			</div>
-			<div class="col-md-4 partners-logo">
+			<div class="col-sm-4 partners-logo">
 				<img src="/images/partners/logo_03.png" alt="" class="partners-logo">
 			</div>
 		</div>
 	</div>
 </section>
-<!--
-<section class="section section-11">
-	<div class="container">
-		<h2></h2>
-		<div class="row">
-			<div class="col-md-12"></div>
-		</div>
-	</div>
-</section>
-<section class="section section-12">
-	<div class="container">
-		<h2></h2>
-		<div class="row">
-			<div class="col-md-12"></div>
-		</div>
-	</div>
-</section>
--->
 
 <footer>
 	<div class="container">
@@ -847,13 +870,13 @@
 	</div>
 	<div class="container">
 		<div class="flex-container">
-			<nav class="js-navigation">
-				<a href="#">Product</a>
-				<a href="#">Features</a>
-				<a href="#">Team</a>
-				<a href="#">Partners</a>
-				<a href="#">FAQ</a>
-			</nav>
+            <nav class="js-navigation">
+                <a href="#">Product</a>
+                <a href="#features">Features</a>
+                <a href="#team">Team</a>
+                <a href="#partners">Partners</a>
+                <a href="#">FAQ</a>
+            </nav>
 			<div class="header-socialAndLang">
 				<div class="header-socials header-socialAndLang-item">
 					<a href="#">
@@ -874,6 +897,7 @@
 		</div>
 	</div>
 </footer>
+
 <script src="./js/jquery.min.js"></script>
 <script src="./js/slick/slick.min.js"></script>
 <script src="./js/app.js"></script>

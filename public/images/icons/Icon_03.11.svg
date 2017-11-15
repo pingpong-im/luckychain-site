@@ -1,0 +1,26 @@
+<svg width="41" height="40" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Icon_03.11</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-4422 -2092)">
+<g id="Icon_03.11">
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(4426 2094)" fill="#67FAD6"/>
+</g>
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path1_fill" transform="translate(4446 2092)" fill="#67FAD6"/>
+</g>
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path2_fill" transform="translate(4449 2114)" fill="#67FAD6"/>
+</g>
+<g id="Rectangle-path (Stroke)">
+<use xlink:href="#path3_fill" transform="translate(4422 2114.44)" fill="#67FAD6"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 4C 0 1.79086 1.79086 0 4 0L 6 0C 8.20914 0 10 1.79086 10 4L 10 6C 10 8.20914 8.20914 10 6 10L 4 10C 1.79086 10 0 8.20914 0 6L 0 4ZM 4 2C 2.89543 2 2 2.89543 2 4L 2 6C 2 7.10457 2.89543 8 4 8L 6 8C 7.10457 8 8 7.10457 8 6L 8 4C 8 2.89543 7.10457 2 6 2L 4 2Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 4C 0 1.79086 1.79086 0 4 0L 12 0C 14.2091 0 16 1.79086 16 4L 16 12C 16 14.2091 14.2091 16 12 16L 4 16C 1.79086 16 0 14.2091 0 12L 0 4ZM 4 2C 2.89543 2 2 2.89543 2 4L 2 12C 2 13.1046 2.89543 14 4 14L 12 14C 13.1046 14 14 13.1046 14 12L 14 4C 14 2.89543 13.1046 2 12 2L 4 2Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 4C 0 1.79086 1.79086 0 4 0L 10 0C 12.2091 0 14 1.79086 14 4L 14 10C 14 12.2091 12.2091 14 10 14L 4 14C 1.79086 14 0 12.2091 0 10L 0 4ZM 4 2C 2.89543 2 2 2.89543 2 4L 2 10C 2 11.1046 2.89543 12 4 12L 10 12C 11.1046 12 12 11.1046 12 10L 12 4C 12 2.89543 11.1046 2 10 2L 4 2Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 0 4C 0 1.79086 1.79086 0 4 0L 13.5556 0C 15.7647 0 17.5556 1.79086 17.5556 4L 17.5556 13.5556C 17.5556 15.7647 15.7647 17.5556 13.5556 17.5556L 4 17.5556C 1.79086 17.5556 0 15.7647 0 13.5556L 0 4ZM 4 2C 2.89543 2 2 2.89543 2 4L 2 13.5556C 2 14.6601 2.89543 15.5556 4 15.5556L 13.5556 15.5556C 14.6601 15.5556 15.5556 14.6601 15.5556 13.5556L 15.5556 4C 15.5556 2.89543 14.6601 2 13.5556 2L 4 2Z"/>
+</defs>
+</svg>
