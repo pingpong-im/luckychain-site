@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "watch": "gulp w",
+    "serve": "gulp serve",
+    "less": "gulp less",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
